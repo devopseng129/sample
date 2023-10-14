@@ -4,5 +4,9 @@ this is another lin
 wip....e
 =======
 this is another line
+<<<<<<< HEAD
 updated file in feature1
 >>>>>>> feature1
+=======
+made change by wsl user
+>>>>>>> e0ef58c8515c0633ddbf09e59abe2c179bc31f4d
