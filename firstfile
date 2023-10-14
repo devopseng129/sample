@@ -1,3 +1,8 @@
 s is my first line
+<<<<<<< HEAD
 this is another lin
 wip....e
+=======
+this is another line
+updated file in feature1
+>>>>>>> feature1
